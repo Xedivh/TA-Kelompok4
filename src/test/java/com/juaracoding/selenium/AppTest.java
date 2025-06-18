@@ -8,7 +8,7 @@ import junit.framework.TestSuite;
  * Unit test for simple App.
  */
 public class AppTest 
-    extends TestCase //testinggithub
+    extends TestCase
 {
     /**
      * Create the test case
@@ -23,6 +23,7 @@ public class AppTest
     /**
      * @return the suite of tests being tested
      * Lorem ipsum
+     * Ini punya aing,,,, yanwar
      */
     public static Test suite()
     {
