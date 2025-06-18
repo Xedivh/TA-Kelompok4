@@ -9,7 +9,7 @@ import junit.framework.TestSuite;
  */
 public class AppTest 
     extends TestCase
-{
+{ //testinggithub
     /**
      * Create the test case
      *
@@ -22,7 +22,6 @@ public class AppTest
 
     /**
      * @return the suite of tests being tested
-     * Ini punya aing,,,, yanwar
      */
     public static Test suite()
     {
